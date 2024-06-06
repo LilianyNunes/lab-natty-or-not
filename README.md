@@ -21,5 +21,5 @@ O resultado é um museu digital que apresenta algumas das obras mais conhecidas 
 ## 🔗 Acesse o Museu Digital
 Acesse o Museu Digital de Van Gogh [aqui](https://lilianynunes.github.io/lab-natty-or-not).
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 O desafio de criar algo 'natty' com IA foi interessante e educacional. Usar IA generativa para recriar obras de arte clássicas mostrou como essas tecnologias podem ser poderosas e versáteis. Este projeto não só ampliou meu conhecimento sobre IA, mas também proporcionou uma nova maneira de interagir com a arte de Van Gogh.
