@@ -1,7 +1,7 @@
-# Museu Digital de Van Gogh
+# Museu Digital Realista de Van Gogh
 
 ## 📒 Descrição
-Este projeto é um museu digital dedicado às obras de Vincent van Gogh, apresentando versões realistas de suas pinturas. As imagens foram geradas utilizando IA generativa da plataforma DALL-E, e o site foi criado para fins de estudo sobre inteligência artificial.
+Este projeto é um museu digital realista dedicado às obras de Vincent van Gogh, apresentando versões realistas de suas pinturas. As imagens foram geradas utilizando IA generativa da plataforma DALL-E, e o site foi criado para fins de estudo sobre inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
 - [DALL-E](https://www.openai.com/dall-e): Plataforma de IA generativa usada para criar as versões realistas das obras de Van Gogh.
@@ -16,7 +16,7 @@ Este projeto é um museu digital dedicado às obras de Vincent van Gogh, apresen
 4. **Conteúdo**: As descrições das obras foram geradas pelo ChatGPT.
 
 ## 🚀 Resultados
-O resultado é um museu digital que apresenta algumas das obras mais conhecidas de Van Gogh, geradas com uma aparência realista usando IA. O site permite aos visitantes explorar e apreciar essas versões digitais, demonstrando o potencial das tecnologias de IA generativa na criação de arte digital.
+O resultado é um museu digital realista que apresenta algumas das obras mais conhecidas de Van Gogh, geradas com uma aparência realista usando IA. O site permite aos visitantes explorar e apreciar essas versões digitais, demonstrando o potencial das tecnologias de IA generativa na criação de arte digital.
 
 ## 💭 Reflexão
 O desafio de criar algo 'natty' com IA foi interessante e educacional. Usar IA generativa para recriar obras de arte clássicas mostrou como essas tecnologias podem ser poderosas e versáteis. Este projeto não só ampliou meu conhecimento sobre IA, mas também proporcionou uma nova maneira de interagir com a arte de Van Gogh.
