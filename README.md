@@ -18,12 +18,8 @@ Este projeto é um museu digital dedicado às obras de Vincent van Gogh, apresen
 ## 🚀 Resultados
 O resultado é um museu digital que apresenta algumas das obras mais conhecidas de Van Gogh, geradas com uma aparência realista usando IA. O site permite aos visitantes explorar e apreciar essas versões digitais, demonstrando o potencial das tecnologias de IA generativa na criação de arte digital.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 O desafio de criar algo 'natty' com IA foi interessante e educacional. Usar IA generativa para recriar obras de arte clássicas mostrou como essas tecnologias podem ser poderosas e versáteis. Este projeto não só ampliou meu conhecimento sobre IA, mas também proporcionou uma nova maneira de interagir com a arte de Van Gogh.
-<<<<<<< HEAD
-=======
 
 ## 🔗 Acesse o Museu Digital
 Acesse o Museu Digital de Van Gogh [aqui](https://lilianynunes.github.io/lab-natty-or-not/).
-
->>>>>>> 7ecc2664d3308cc18d4ceebdbe833f4ca9355553
